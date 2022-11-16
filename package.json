@@ -1,0 +1,31 @@
+{
+  "name": "aman",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@offset-dev/strapi-calendar": "^0.0.6",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "framer-motion": "^6.3.3",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "18.1.0",
+    "styled": "^1.0.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}

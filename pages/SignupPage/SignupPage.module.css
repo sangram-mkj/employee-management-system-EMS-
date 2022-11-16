@@ -1,0 +1,8 @@
+.mainDiv{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+}
